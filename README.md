@@ -1,84 +1,63 @@
-<!-- Animated Banner -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Faizan%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Faizan%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Faizan Shah</h1>
+<h2 align="center">Hi 👋 I'm Faizan Shah</h2>
 
 <p align="center">
-Full Stack Developer | AI Engineer | MERN Stack | Next.js
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Agents+Developer;Next.js+%7C+Python+Developer;Building+AI+Powered+Products" />
+Full Stack Developer • AI Engineer • MERN Stack • Next.js
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=faizanshah7424&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+Agents+Developer;Next.js+Developer;Python+Automation;Building+AI+Powered+Products" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=faizanshah7424&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🚀 Full Stack & AI Developer
+🚀 Passionate **Full Stack & AI Developer**
 
-* 🔭 Currently working on **AI Agents & Automation Systems**
+* 🤖 Building **AI Agents & Automation Systems**
+* 💻 Creating **Scalable Web Applications**
+* 🛒 Developing **Modern eCommerce Platforms**
 * 🌱 Learning **MCP Servers & OpenAI SDK**
-* 💻 Building **Scalable Web Applications**
-* ⚡ Goal: **Build AI Powered Products**
+* ⚡ Mission: **Build AI Powered Products**
 
 ---
 
 # 🚀 Tech Stack
 
-### Frontend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,python,mongodb,git,github,vscode"/>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### AI / Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
-🛒 **Baby Baba Clothing (Ecommerce Website)**
-🤖 **AI Voice Chat Agent**
-📊 **Real-Time Job Trend Analyzer**
+| Project                    | Description                    |
+| -------------------------- | ------------------------------ |
+| 🛒 **Baby Baba Clothing**  | Full Stack eCommerce platform  |
+| 🤖 **AI Voice Chat Agent** | Voice AI assistant with speech |
+| 📊 **Job Trend Analyzer**  | Real-time job data analytics   |
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-<p>
-<a href="https://github.com/faizanshah7424">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=faizanshah7424&theme=tokyonight&row=1&column=6"/>
+
 </p>
 
 ---
@@ -87,19 +66,50 @@ Full Stack Developer | AI Engineer | MERN Stack | Next.js
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizanshah7424&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizanshah7424&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanshah7424&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=faizanshah7424&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanshah7424&layout=compact&theme=tokyonight"/>
+</p>
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanshah7424&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanshah7424&theme=tokyo-night"/>
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/faizanshah7424/faizanshah7424/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/faizanshah7424/faizanshah7424/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/faizanshah7424">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a **star** to my repositories!
+
+</p>
