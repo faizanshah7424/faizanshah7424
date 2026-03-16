@@ -1,60 +1,67 @@
-# Hi 👋 I'm Faizan Shah
+<h1 align="center">Hi 👋, I'm Faizan Shah</h1>
+<h3 align="center">Full Stack & AI Developer</h3>
 
-Full-Stack & AI Developer | MERN Stack | Next.js | Agentic AI | DevOps
-
-I build scalable web applications, AI-powered systems, and automation tools.
-
-Currently exploring:
-- AI Agents
-- MCP Servers
-- OpenAI SDK
-- DevOps automation
+<p align="center">
+🚀 MERN Stack | Next.js | Agentic AI | Python | DevOps
+</p>
 
 ---
 
-## 🚀 Skills
+## 👨‍💻 About Me
 
-### Web Development
-- Next.js
-- React
-- TypeScript
-- Node.js
-- Express
-- MongoDB
-- Tailwind CSS
-
-### AI & Automation
-- OpenAI SDK
-- Agentic AI
-- MCP Server
-- Prompt Engineering
-
-### DevOps
-- Docker
-- CI/CD
-- Vercel
-- GitHub Actions
+- 🔭 Currently working on **AI Agents & Automation Systems**
+- 🌱 Learning **MCP Servers & OpenAI SDK**
+- 💻 Building **Scalable Web Applications**
+- ⚡ Goal: **Build AI Powered Products**
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Tech Stack
 
-### Bike Searching Platform
-Full-stack platform for searching and filtering bikes.
+### Frontend
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
 
-### EPI Data Portal
-Data management and analytics portal.
+### Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
 
-### Baby Baba Clothing (Ecommerce)
-Modern ecommerce website with Stripe payment.
+### AI / Automation
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
 
-### AI Employee (Hackathon 0)
-AI-powered employee assistant using agentic AI.
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ---
 
-## 📫 Contact
+## 🚀 Current Projects
 
-Email: eng.faizanshah3@gmail.com 
-LinkedIn: coming soon  
-Portfolio: coming soon## Hi there 👋
+- 🛒 **Baby Baba Clothing (Ecommerce Website)**
+- 🤖 **AI Voice Chat Agent**
+- 📊 **Real-Time Job Trend Analyzer**
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/faizanshah7424)
+
+---
+
+## 📊 GitHub Stats
+
+![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanshah7424&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=faizanshah7424&theme=tokyonight)
+
+---
+
+## 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanshah7424&layout=compact&theme=tokyonight)
