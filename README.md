@@ -1,7 +1,10 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Faizan%20Shah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> 
+<img src="https://capsule-render.vercel.app/api?<!-- Profile Picture -->
+
+<p align="center">
+  <img src="https://github.com/faizanshah7424.png" width="180" alt="Faizan Shah" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Faizan Shah</h1>
@@ -12,6 +15,10 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Developer;Multi-Agent+Systems+Builder;OpenAI+SDK+Engineer;Next.js+Developer;Python+Automation+Engineer;Building+Production+Ready+AI+Applications;Full+Stack+AI+Engineer" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=faizanshah7424&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
