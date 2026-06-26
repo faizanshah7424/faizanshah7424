@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Faizan%20Shah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Faizan%20Shah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> 
 </p>
 
 <h1 align="center">Hi 👋, I'm Faizan Shah</h1>
